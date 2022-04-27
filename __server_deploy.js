@@ -10,6 +10,8 @@
  * For each project one time
  * -----------------
  * 1.heroku create
- * 2. 
- * 
+ * 2. make sure git  command
+ * 3. git push heroku main
+ * 4. go to heroku deshboard > current project> setting > revel config
+ *  
  */
